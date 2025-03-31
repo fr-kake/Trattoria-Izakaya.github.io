@@ -20,7 +20,7 @@ export default function Page() {
                         </h1>
                     </div>
                     <div className="text-right">
-                        <p className="text-sm text-gray-500">2023年12月更新</p>
+                        <p className="text-sm text-gray-500">2025年3月更新</p>
                         <p className="text-xs text-gray-400">公式サイト</p>
                     </div>
                 </div>
@@ -393,7 +393,7 @@ export default function Page() {
                         </div>
                     </div>
                     <div className="border-t border-gray-700 mt-8 pt-8 text-center text-gray-400 text-sm">
-                        <p>© 2023 TRATTORIA IZAKAYA All Rights Reserved.</p>
+                        <p>© 2025 TRATTORIA IZAKAYA All Rights Reserved.</p>
                     </div>
                 </div>
             </footer>
